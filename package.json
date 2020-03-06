@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coreyc/express-rest-api-structure.git"
+    "url": "https://github.com/LiamOSullivan/express-rest-api-structure.git"
   },
   "author": "Corey Cleary",
   "license": "MIT",
